@@ -4,7 +4,12 @@ title: Resident Break Calendar
 order: 1
 ---
 
+**Please add your new free (and down to hang out) days on this Google Form! [LINK](https://forms.gle/DJogHaLU7Mrzd4U2A)**
+
 <div id="observablehq-searchInput-7d891de1"></div>
+
+---
+
 <div id="observablehq-calendarEl-7d891de1"></div>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
