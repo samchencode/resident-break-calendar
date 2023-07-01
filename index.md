@@ -5,10 +5,10 @@ order: 1
 ---
 
 <div id="observablehq-searchInput-1e1dd4b7"></div>
-<div id="observablehq-viewof-calendar-1e1dd4b7" style="min-height:300px"></div>
+<div id="observablehq-viewof-calendar-1e1dd4b7"></div>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
-<script type="module">
+<script type="module" defer>
     import { Runtime, Inspector } from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
     import define from "https://api.observablehq.com/d/d379ad992bc21262@160.js?v=3";
     
