@@ -6,7 +6,7 @@ order: 1
 
 # [Click here to add your free days!](https://forms.gle/DJogHaLU7Mrzd4U2A)
 
-<a href="https://forms.gle/DJogHaLU7Mrzd4U2A" class="fab">&plus;</a>
+<a href="https://forms.gle/DJogHaLU7Mrzd4U2A" class="fab">+</a>
 <style>
   .fab {
   border: none;
