@@ -5,7 +5,7 @@ order: 1
 ---
 
 <div id="observablehq-searchInput-1e1dd4b7"></div>
-<div id="observablehq-viewof-calendar-1e1dd4b7"></div>
+<div id="observablehq-viewof-calendar-1e1dd4b7" style="min-height:300px"></div>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
 <script type="module">
