@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Resident Break Calendar
 order: 1
 ---
