@@ -6,6 +6,25 @@ order: 1
 
 # [Click here to add your free days!](https://forms.gle/DJogHaLU7Mrzd4U2A)
 
+<a href="https://forms.gle/DJogHaLU7Mrzd4U2A" class="fab">&plus;</a>
+<style>
+  .fab {
+  border: none;
+  height: 56px;
+  width: 56px;
+  background-color: hotpink;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  color: white;
+  box-shadow: 0 0 5px rgba(0, 0, 0, .25);
+}
+</style>
+
+---
+
 <div id="observablehq-searchInput-7d891de1"></div>
 
 ---
